@@ -5,7 +5,6 @@
     "header": {
         "title": "github",
         "logo": "images/modern-mango.png",
-        "logo_alt": "Agency logo",
         "has_nav": true,
         "nav_links": [
             {
