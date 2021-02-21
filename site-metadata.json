@@ -70,5 +70,6 @@
         ]
     },
     "title": "github",
-    "domain": "https://www.github.com"
+    "domain": "https://www.github.com",
+    "favicon": "images/github-logo.png"
 }
