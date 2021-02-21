@@ -9,7 +9,8 @@
         "nav_links": [
             {
                 "label": "Home",
-                "style": "link"
+                "style": "link",
+                "url": "http"
             },
             {
                 "label": "Work",
