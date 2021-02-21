@@ -9,7 +9,6 @@
         "nav_links": [
             {
                 "label": "Home",
-                "url": "/",
                 "style": "link"
             },
             {
