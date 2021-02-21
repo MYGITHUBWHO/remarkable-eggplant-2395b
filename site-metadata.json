@@ -13,11 +13,6 @@
                 "url": "http://www.github.com"
             },
             {
-                "label": "Work",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
                 "label": "Journal",
                 "url": "/blog/",
                 "style": "link"
